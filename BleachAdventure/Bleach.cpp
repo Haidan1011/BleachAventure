@@ -12,6 +12,7 @@ SDL_Window* window = NULL;
 SDL_Rect Go[GoFrame + 1], Stay[StayFrame + 1], BackGround,Defend[DeFendFrame + 1], Scr = { 0,0,Wi,He };
 SDL_RendererFlip flipType = SDL_FLIP_NONE;
 //********************************************
+//test github
 class cTexture
 {
 public:
